@@ -1,0 +1,8 @@
+*.bak
+*.pyc
+*.swp
+*.tmp
+*~
+.DS_Store
+
+i18n/sympy.org.pot
